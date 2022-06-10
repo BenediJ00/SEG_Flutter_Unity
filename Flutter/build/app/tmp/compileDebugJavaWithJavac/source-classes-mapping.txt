@@ -1,0 +1,16 @@
+main/java/de/fhkiel/mediaip/example_without_library/osc/Encoder.java
+ main.java.de.fhkiel.mediaip.example_without_library.osc.Encoder
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+main/java/de/fhkiel/mediaip/example_without_library/osc/Message.java
+ main.java.de.fhkiel.mediaip.example_without_library.osc.Message
+com/example/seg_flutter_project/BuildConfig.java
+ com.example.seg_flutter_project.BuildConfig
+main/java/de/fhkiel/mediaip/example_without_library/OSCSender.java
+ main.java.de.fhkiel.mediaip.example_without_library.OSCSender
+main/java/de/fhkiel/mediaip/example_without_library/OSCReceiver.java
+ main.java.de.fhkiel.mediaip.example_without_library.OSCReceiver
+main/java/de/fhkiel/mediaip/example_without_library/osc/Decoder.java
+ main.java.de.fhkiel.mediaip.example_without_library.osc.Decoder
+com/example/seg_flutter_project/MainActivity.java
+ com.example.seg_flutter_project.MainActivity
